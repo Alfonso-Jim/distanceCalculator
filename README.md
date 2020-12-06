@@ -12,6 +12,7 @@ Built using:
     - Router
 - Firebase
 - Axios
+- npm
 
 ## Build Setup
 
